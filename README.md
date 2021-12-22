@@ -1,4 +1,4 @@
 # booklist-with-vanila-js
-Nice follow js project for creating a booklist with vanila js #DOM #CLASS 
+Follow js project for creating a booklist with vanila js #DOM #CLASS #OPP-JAVASCRIPT
 
 https://booklist-app-zr.netlify.app/
